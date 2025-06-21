@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\MusicProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|c:\\users\\user1\\documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\musicproject\\musicproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|solutionrelative:musicproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|c:\\users\\user1\\documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\musicproject\\musicproject\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|solutionrelative:musicproject\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|c:\\users\\user1\\documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\musicproject\\musicproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|solutionrelative:musicproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|c:\\users\\user1\\documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\musicproject\\musicproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|solutionrelative:musicproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|c:\\users\\user1\\documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\musicproject\\musicproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C3EAAA1E-CDAE-4514-9377-6E0D9708EA13}|MusicProject\\MusicProject.csproj|solutionrelative:musicproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\MusicProject\\MusicProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MusicProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\MusicProject\\MusicProject\\appsettings.Development.json",
+              "RelativeToolTip": "MusicProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T23:24:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.example.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\MusicProject\\MusicProject\\appsettings.example.json",
+              "RelativeDocumentMoniker": "MusicProject\\appsettings.example.json",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\MusicProject\\MusicProject\\appsettings.example.json",
+              "RelativeToolTip": "MusicProject\\appsettings.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T23:23:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\MusicProject\\MusicProject\\.gitignore",
               "RelativeDocumentMoniker": "MusicProject\\.gitignore",
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "MusicProject\\appsettings.json",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05E0\u05D7\u05DE\u05D9\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D7\u05E8 \u05E9\u05D9\u05E0\u05D5\u05D9\u05D9\u05DD \u05DC\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8\\server\\MusicProject\\MusicProject\\appsettings.json",
               "RelativeToolTip": "MusicProject\\appsettings.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-21T22:15:50.022Z",
               "EditorCaption": ""
