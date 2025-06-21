@@ -1,0 +1,26 @@
+﻿# Ignore sensitive settings
+appsettings.json
+appsettings.Development.json
+
+# Build outputs
+bin/
+obj/
+
+# VS user-specific files
+.vscode/
+*.user
+*.suo
+*.dbmdl
+
+# Visual Studio folders
+.vs/
+
+# Logs
+*.log
+
+# Ignore images & videos folders if needed
+Images/
+Image/
+Video/
+
+

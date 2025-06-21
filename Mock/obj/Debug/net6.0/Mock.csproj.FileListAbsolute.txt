@@ -1,0 +1,527 @@
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.Up2Date
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.Up2Date
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.Up2Date
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.Up2Date
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.Up2Date
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.csproj.Up2Date
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Mock\obj\Debug\net6.0\ref\Mock.dll

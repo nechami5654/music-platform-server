@@ -1,0 +1,465 @@
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\bin\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\פרויקט עם שינויים 15.01.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 22.01.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\‏‏פרויקט עם שינויים 26.01.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+F:\לימודים\פרויקט סוף שנה!!!!\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 07.02.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי נויפלד\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\Ai\נחמי שוורץ\פרויקט\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏פרויקט עם שינויים 09.02.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏פרויקט עם שינויים 03.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 04.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+D:\לימודים\פרויקט סוף שנה!!!!\server\‏‏‏‏‏פרויקט עם שינויים 05.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏פרויקט עם שינויים 10.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏פרויקט עם שינויים 12.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 18.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 19.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+D:\חדש טוב\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 20.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\נחמי\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 23.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 24.03.2025 + טיפול באינדקס\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט\server\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏פרויקט עם שינויים 25.03.2025\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט להגשה\server\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Documents\נחמי\לימודים\פרויקט סוף שנה\פרויקט לאחר שינויים לעלות לגיט\server\MusicProject\Service\obj\Debug\net6.0\ref\Service.dll
